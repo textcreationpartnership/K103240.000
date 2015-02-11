@@ -3356,9 +3356,20 @@ That is, when <hi>b</hi> is very ſmall in reſpect of <hi>p.</hi>
                      </p>
                      <p>The numbers in the laſt column of this table, are the values of the letter <hi>g,</hi> in the formula for the velocity by means of the recoil of the gun. This letter may always be ſuppoſed to have the value 80.47 inches, as the two laſt numbers of the column differ from it but .03 only, or about the 2700 part of the whole, inducing an error of only about half a foot in the velocity of the ball.</p>
                      <p>The values of <hi>g,</hi> in this laſt column of the table, were computed in the following manner.</p>
-                     <figure>
-                        <figDesc>diagram</figDesc>
-                     </figure>
+                     <p>
+                        <pb n="146" facs="tcp:0700100500:151"/>Suppoſe the centers of gravity of the ſtem, gun, and leads to be all reduced to the line of the ſtem AT connecting the axis and center of the trunnions T, in which they are ſituated, very nearly;
+<figure>
+                           <figDesc>diagram</figDesc>
+                        </figure>
+ſo that
+<list>
+                           <item>G be the center of gravity of the ſtem,</item>
+                           <item>C be the center of gravity of the gun,</item>
+                           <item>T be the center of gravity of the leads;</item>
+                        </list> alſo the numbers on the right-hand ſide of theſe points, namely, 44.25 and 89.06 and 90.3, are the mea<g ref="char:EOLhyphen"/>ſured diſtances below the axis at A; and the num<g ref="char:EOLhyphen"/>bers on the left-hand ſide, namely, 188, 290, and 439, are the weights of the bodies belonging to thoſe centers of gravity. Then, from the property of the center of gravity, we ſhall have theſe operations <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap> where D is the center of gravity of the bodies at the points C and T, or of the gun and leads; and E the center of gravity of the two bodies placed at the points G and D, or of all the three bodies at the points G, C, T; that is, E is the compound center of gravity for both gun, iron,
+<pb n="147" facs="tcp:0700100500:152"/>and leads in one maſs. And the ſome operation is to be repeated for the other guns.</p>
                   </div>
                   <div type="experiment">
                      <p n="43">43. It may here be alſo remarked, that the mean number of vibra<g ref="char:EOLhyphen"/>tions per minute, for every gun, weighing in all 917lb, taken among the actual vibrations of each day, is for
@@ -21473,18 +21484,30 @@ That is, when <hi>b</hi> is very ſmall in reſpect of <hi>p.</hi>
                      <p n="8">8thly. It appears that the reſiſting force of wood, to balls fired into it, is not conſtant. And that the depths penetrated by different velo<g ref="char:EOLhyphen"/>cities or charges, are nearly as the logarithms of the charges, inſtead of being as the charges themſelves, or, which is the ſame thing, as the ſquare of the velocity.</p>
                      <p n="9">9thly. Theſe, and moſt other experiments, ſhew that balls are greatly deflected from the direction they are projected in; and that ſo much as 300 or 400 yards in a range of a mile, or almoſt ¼th of the range, which is nearly a deflection of an angle of 15 degrees.</p>
                      <p n="10">10thly. Finally, theſe experiments furniſh us with the following con<g ref="char:EOLhyphen"/>comitant data, to a tolerable degree of accuracy; namely, the dimenſions and elevation of the gun, the weight and dimenſions of the powder and ſhot, with the range and time of ſlight, and firſt velocity of the ball; from which it is to be hoped that the meaſure of the reſiſtance of the air to projectiles may be determined, and thereby lay the foundation for a true and practical ſyſtem of gunnery, which may be as well uſeful in ſervice as in theory; eſpecially after a ſew more accurate ranges are determined with better balls than ſome of the laſt employed on the fore<g ref="char:EOLhyphen"/>going ranges.</p>
-                     <figure>
-                        <head>PLATE I.</head>
-                     </figure>
-                     <figure>
-                        <head>PLATE II.</head>
-                     </figure>
-                     <figure>
-                        <head>PLATE III.</head>
-                     </figure>
-                     <figure>
-                        <head>PLATE IV.</head>
-                     </figure>
+                     <p>
+                        <pb facs="tcp:0700100500:274"/>
+                        <figure>
+                           <head>PLATE I.</head>
+                        </figure>
+                     </p>
+                     <p>
+                        <pb facs="tcp:0700100500:275"/>
+                        <figure>
+                           <head>PLATE II.</head>
+                        </figure>
+                     </p>
+                     <p>
+                        <pb facs="tcp:0700100500:276"/>
+                        <figure>
+                           <head>PLATE III.</head>
+                        </figure>
+                     </p>
+                     <p>
+                        <pb facs="tcp:0700100500:277"/>
+                        <figure>
+                           <head>PLATE IV.</head>
+                        </figure>
+                     </p>
                   </div>
                </div>
             </div>
